@@ -1,3 +1,18 @@
+> ## ⚠️ Anti-pattern — kept on purpose
+>
+> This is the **original Vite + React build of a marketing site, preserved as a counter-example.**
+> It is a **pure client-side-rendered (CSR)** app: it ships an empty `<div id="root"></div>` to
+> crawlers, so it was effectively **invisible to Google, AI crawlers and social link previews**.
+>
+> It was later **migrated to Next.js (SSR/SSG)**. Read the full story — diagnosis, the Next.js vs
+> Astro decision, the hydration bugs and the before/after — in the case study:
+>
+> 👉 **[migration-vite-to-nextjs](https://github.com/Sevives-Agency/sevives-showcase/tree/main/migration-vite-to-nextjs)** (in `sevives-showcase`)
+>
+> Do **not** use this as a template. It's here to show what *not* to do for a site that needs to be found.
+
+---
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
