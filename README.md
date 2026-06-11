@@ -10,9 +10,10 @@ travailler : ce qui marche, ce qui ne marche pas, et pourquoi.
 
 | Dossier | Contenu |
 |---|---|
+| `snippets/` | Aide-mémoires et bouts de code réutilisables, distillés de projets réels. |
 | `_bad-examples/` | **Anti-patterns** — du code qu'on garde comme contre-exemple, à ne PAS reproduire (voir ci-dessous). |
 
-> Les dossiers thématiques (snippets, prompts, outils…) seront ajoutés au fur et à
+> D'autres dossiers thématiques (prompts, outils…) seront ajoutés au fur et à
 > mesure qu'on aura du contenu réel et utile à y mettre. Pas de dossiers vides
 > « au cas où ».
 
